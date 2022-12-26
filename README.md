@@ -10,7 +10,7 @@
 <H1>
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-sunglasses-gif.gif" alt="icons8-pacman-48" border="0" width=42px align="center"/> Demo
  </H1>
- <p align='center'>https://0xelshazly.github.io/Code-Platform/src/</p>
+ <p align='center'>https://0xelshazly.github.io/StartUp_Project/</p>
  
  
  <H1>
